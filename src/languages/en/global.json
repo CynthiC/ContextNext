@@ -1,0 +1,14 @@
+{
+    "navbar":{
+        "ingles":"English",
+        "espanol":"Spanish",
+        "inicio":"Home"
+    },
+    "body":{
+        "descripcion":"HELLO !! My name is Cynthia, I am a student at the Technological University of Aguascalientes, currently studying the 8th in the IDGS career, and I hope to finish my career soon.",
+        "tecnologias":"Javascript, Nodejs, Laravel, MongoDB, SQL, Git",
+        "contador":"Count Visit",
+        "contador2":"Number of Visits",
+        "DescripcionTecnologias":"Technologies I've used:"
+    }
+}

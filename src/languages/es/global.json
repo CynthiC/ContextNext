@@ -1,0 +1,14 @@
+{
+    "navbar":{
+        "espanol":"Espanol",
+        "ingles":"Ingles",
+        "inicio":"Inicio"
+    },
+    "body":{
+        "descripcion":"HOLA !!   Mi nombre es Cynthia, soy estudiante en la Universidad Tecnologica de Aguascalientes, cursando actualmente el 8vo en  la carrera IDGS, y espero pronto terminar mi carrer. ",
+        "tecnologias":"Javascript, Nodejs, Laravel, MongoDB, SQL, Git",
+        "contador":"Contar visita",
+        "contador2":"Contador de Visitas",
+        "DescripcionTecnologias":"Las Tecnologias que eh usado son:"
+    }
+}
